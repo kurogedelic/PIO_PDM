@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Editors/IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node/npm (if present in examples)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (if present in tooling)
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PlatformIO/Arduino build artifacts
+.pio/
+.arduinoIDE/
+build/
+.clangd/
+
+# Logs
+*.log
+
+# Do not include assistant docs
+agent.md
+claude.md
+AGENT.md
+CLAUDE.md

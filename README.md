@@ -27,4 +27,4 @@ pdm.write((uint16_t)32768);
 
 ## License
 
-MIT © @kurogedelic
+MIT © Leo Kuroshita @kurogedelic
